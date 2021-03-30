@@ -1,0 +1,17 @@
+[
+    {
+        "title": "RUN 10KM GARMIN CONNECT SDK",
+        "date": "11/04/2021",
+        "tickets": "https://my-fake-event.com.br?evento=001"
+    },
+    {
+        "title": "RUN 5KM GARMIN CONNECT SDK",
+        "date": "26/04/2021",
+        "tickets": "https://my-fake-event.com.br?evento=002"
+    },
+    {
+        "title": "RUN 21KM GARMIN CONNECT SDK",
+        "date": "10/05/2021.",
+        "tickets": "https://my-fake-event.com.br?evento=003"
+    }
+]
